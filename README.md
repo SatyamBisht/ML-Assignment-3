@@ -6,7 +6,7 @@ This repository contains the implementation of the K-Means clustering algorithm 
 
 Dataset
 The dataset can be found at the following link:
-Dataset Link
+https://drive.google.com/file/d/1xHNXEdnyEcxMqlk4lA1JqVjKFr3sdV2Q/view?usp=drive_link
 
 Requirements
 
